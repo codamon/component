@@ -1,2 +1,2 @@
 # component
-# Coda Damon
+This is my first readme.md file
